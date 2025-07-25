@@ -38,7 +38,7 @@ All notable changes to this project will be documented in this file.
 - BLE updates for esp-nimble-cpp v2.x (#23553)
 - Library names (#23560)
 - ESP32 LoRaWan decoding won't duplicate non-decoded message if `SO147 0`
-- VEML6070 and AHT2x device detection (#23581)
+- I2CDriver11 1 and AHT2x device detection (#23581)
 - CSS uses named colors variables (#23597)
 
 ### Fixed
